@@ -1,8 +1,5 @@
- ---
- 
- layout: home
- 
- ---
- 
- Welcome to this super new blog!
- 
+---
+layout: home 
+---
+
+Welcome to my new blog!
