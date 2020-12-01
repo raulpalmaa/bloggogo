@@ -1,9 +1,9 @@
 ---
 layout: page
-title: about
+title: About
 ---
 
-##This blog is about me learning Jekyll and GH-Pages so I can make an website for the ICTP-SAIFR Complex seminars.
+## This blog is about me learning Jekyll and GH-Pages so I can make an website for the ICTP-SAIFR Complex seminars.
 
 - Learn git-pages
 - Learn Jekyll
