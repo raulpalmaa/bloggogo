@@ -2,5 +2,5 @@
  layout: home
  ---
  
- Welcome to this super new blog.
+ Welcome to this super new blog!
  
